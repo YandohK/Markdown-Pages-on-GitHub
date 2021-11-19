@@ -1,6 +1,6 @@
 # Markdown Pages Challenge
 ### Yandoh Keno
 ###### Links to other pages
-[My Car] (Miata.md)
+[My Car](Miata.md)
 
-[Pets] (Cat.md)
+[Pets](Cat.md)
