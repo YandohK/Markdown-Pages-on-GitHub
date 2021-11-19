@@ -3,4 +3,4 @@
 ###### Links to other pages
 [My Car] (Miata.md)
 
-[About Me] (Yandoh.md)
+[Pets] (Cat.md)
