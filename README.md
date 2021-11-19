@@ -1,3 +1,3 @@
 # Markdown-Pages-on-GitHub
-##Learning Markdown
-###Yandoh Keno
+## Learning Markdown
+### Yandoh Keno
